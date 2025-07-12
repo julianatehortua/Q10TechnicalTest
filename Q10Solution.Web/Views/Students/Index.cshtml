@@ -1,0 +1,54 @@
+﻿@model List<Q10Solution.Application.DTOs.StudentDto>
+
+@{
+    ViewData["Title"] = "Estudiantes";
+}
+
+<h2>Estudiantes</h2>
+
+<div class="text-end mb-3">
+    <a asp-action="Create" class="btn btn-primary">Registrar estudiante</a>
+</div>
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Documento</th>
+            <th>Correo</th>
+            <th>Materias Inscritas</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var subject in Model)
+        {
+            <tr>
+                <td>@subject.Name</td>
+                <td>@subject.Document</td>
+                <td>@subject.Email</td>
+                <td>
+                    @if (subject.Subjects != null && subject.Subjects.Any())
+                    {
+                        <ul>
+                            @foreach (var sub in subject.Subjects)
+                            {
+                                <li>@sub.Name (@sub.Credits créditos)</li>
+                            }
+                        </ul>
+                    }
+                    else
+                    {
+                        <span class="text-danger">Sin materias</span>
+                    }
+
+                </td>
+                <td>
+                    <a asp-action="AssignSubjects" class="btn btn-info" asp-route-id="@subject.Id">Asignar Materias</a>
+                    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@subject.Id">Editar</a>
+                    <a asp-action="Delete" class="btn btn-danger" asp-route-id="@subject.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

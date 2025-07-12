@@ -1,0 +1,15 @@
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\Q10Solution.Application.csproj.AssemblyReference.cache
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\Q10Solution.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\Q10Solution.Application.AssemblyInfoInputs.cache
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\Q10Solution.Application.AssemblyInfo.cs
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\Q10Solution.Application.csproj.CoreCompileInputs.cache
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\bin\Debug\net9.0\Q10Solution.Application.deps.json
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\bin\Debug\net9.0\Q10Solution.Application.dll
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\bin\Debug\net9.0\Q10Solution.Application.pdb
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\bin\Debug\net9.0\Q10Solution.Domain.dll
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\bin\Debug\net9.0\Q10Solution.Domain.pdb
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\Q10Solut.1990DF0A.Up2Date
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\Q10Solution.Application.dll
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\refint\Q10Solution.Application.dll
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\Q10Solution.Application.pdb
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Application\obj\Debug\net9.0\ref\Q10Solution.Application.dll

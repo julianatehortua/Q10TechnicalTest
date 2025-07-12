@@ -1,0 +1,30 @@
+﻿@model Q10Solution.Application.DTOs.SubjectDto
+
+@{
+    ViewData["Title"] = "Crear Materia";
+}
+
+<h2>Crear Materia</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Nombre</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Code" class="form-label">Código</label>
+        <input asp-for="Code" class="form-control" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Credits" class="form-label">Créditos</label>
+        <input asp-for="Credits" class="form-control" />
+        <span asp-validation-for="Credits" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Guardar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

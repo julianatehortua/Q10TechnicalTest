@@ -1,0 +1,11 @@
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\bin\Debug\net9.0\Q10Solution.Domain.deps.json
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\bin\Debug\net9.0\Q10Solution.Domain.dll
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\bin\Debug\net9.0\Q10Solution.Domain.pdb
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\obj\Debug\net9.0\Q10Solution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\obj\Debug\net9.0\Q10Solution.Domain.AssemblyInfoInputs.cache
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\obj\Debug\net9.0\Q10Solution.Domain.AssemblyInfo.cs
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\obj\Debug\net9.0\Q10Solution.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\obj\Debug\net9.0\Q10Solution.Domain.dll
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\obj\Debug\net9.0\refint\Q10Solution.Domain.dll
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\obj\Debug\net9.0\Q10Solution.Domain.pdb
+C:\Users\Derain Julian\Desktop\Q10Solution\Q10Solution.Domain\obj\Debug\net9.0\ref\Q10Solution.Domain.dll
