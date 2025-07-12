@@ -13,7 +13,7 @@ Permite crear, editar y listar estudiantes y materias, asignar materias a los es
 
 ## Requisitos
 - .NET 9 SDK o superior.
-- Visual Studio 2022 u otro IDE compatible.
+- Visual Studio 2022 o superior.
 
 ## Cómo ejecutar
 1. Clonar el repositorio:
@@ -22,7 +22,7 @@ Permite crear, editar y listar estudiantes y materias, asignar materias a los es
 2. Compilar la aplicación:
    dotnet build
 
-3. Ir la carpeta de la aplicación web
+3. Ir la carpeta de la aplicación web:
    cd Q10Solution.Web
 
 4. Ejecutar la aplicación:
@@ -49,7 +49,7 @@ Al iniciar la aplicación, un DataSeeder inserta datos de ejemplo
 
 ## Pruebas
 - Incluye pruebas unitarias para servicios de estudiantes y materias.
-- Utiliza Moq para mocks y FluentAssertions para validaciones.
+- Utiliza Moq para mocks y xUnit para validaciones.
 
 ## Esquema de la Base de Datos
 
