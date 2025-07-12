@@ -1,7 +1,7 @@
 # Q10 Solution
 
 ## Descripción
-Esta es una aplicación Web desarrollada con .NET 9 para gestionar estudiantes y materias.  
+Esta es una aplicación Web desarrollada con .NET 9, con vistas en Razor Pages y estilos en Bootstrap para gestionar estudiantes y materias.  
 Permite crear, editar y listar estudiantes y materias, asignar materias a los estudiantes.
 
 ## Funcionalidades principales
